@@ -1,0 +1,3 @@
+- A process that you keep to yourself or a part of the product you keep to yourself
+	- Needs to be protected by NDA
+	- Is just info not known to the public that the company extracts some kind of value out of 

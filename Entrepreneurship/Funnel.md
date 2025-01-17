@@ -1,0 +1,2 @@
+- Hook people into your product
+- Use [[Innovation Accounting]] stages

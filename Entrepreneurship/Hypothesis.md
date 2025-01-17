@@ -1,0 +1,32 @@
+- Types
+	- Customer
+		- Who is the customer?
+		- How would you find them?
+	- Problem
+		- What is their pain?
+		- What job are they hiring a product to do?
+	- Solution
+		- What kind of solution are they seeking?
+		- What features do they need?
+		- Will this solution actually address their problem?
+	- Pricing
+		- Trying different pricing models
+	- Technology 
+		- What kind of technological knowledge do they have?
+		- Can it be built?
+		- How long will it take?
+		- Will it perform?
+		- Should we use Android or iPhone , etc..
+		- What would it cost to manufacture?
+	- Habits
+		- Customer does...
+	- Growth
+		- What ways will new consumers discover this product?
+		- Why will they keep using it?
+		- Why will your product grow?
+	- Value Hypothesis
+		- If this product is being used, how is it providing value to the customer?
+		- How are you gonna capture that value?
+	- Leap of Faith
+		- Does anyone even want the product?
+		- Really important assumption that needs to be tested otherwise you need to pivot

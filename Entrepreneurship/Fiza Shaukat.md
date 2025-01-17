@@ -1,0 +1,44 @@
+#GuestSpeaker 
+
+- Where did you get your entrepreneurial passion?
+	- Dad and Grandfather were entrepreneurs
+	- All you need to be an entrepreneur is persistence and passion  
+		- Other skills can be developed on the journey 
+- Fundraising
+	- Never ask for money, ask for advice
+	- First yes to investment came after 60 no's
+	- Do the same thing again and again but tweak it to each person
+		- Research the person and their background and tweak the pitch to them to form a link
+		- Person will either connect you to relevant people or give you advice 
+- Mentor
+	- Find a mentor 
+		- Overall advising
+		- Look at their experience
+		- Okay to ask someone to be your mentor 
+	- Don't have to agree with them all the time 
+	- Develop a long lasting relationship with someone 
+- Tips
+	- Go explore opportunities
+	- Harvard innovation Lab 
+	- Don't get caught in bubble 
+	- Connect with ecosystem around you 
+	- How to get ready for summer job or internship?
+		- Networking (know the right people)
+			- Lots of startups want to hire college students 
+		- Know the people who are hiring so you can develop a relationship with them 
+- MVP
+	- Original
+		- End to End patient management system
+		- Patient centered
+		- Goal to prevent loss of medical records
+- Lean Startup
+	- Business model canvas --> solution --> present to team 
+- Customers
+	- Talked a lot to customers in person
+	- Saw there was a need for product
+	- Saw a problem with product --> physicians didn't want to change behavior/ didn't want to type
+		- Product wasn't sticky enough
+		- Solved problem with digipen tech (physicians could write directly on tablet and forms would be instantly digitized)
+	- New customer segment
+		- Ai copilot so that students at universities can fill in immunization records really fast
+		- Automates manual administrative tasks 

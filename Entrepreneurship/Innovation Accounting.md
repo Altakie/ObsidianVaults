@@ -1,0 +1,17 @@
+- Three Steps
+	- Establish Baseline
+	- Tune Engine
+	- Pivot (if needed)
+- Focus on business metrics improvement, not product improvement
+- Cohort Analysis
+	- Don't look at data as a whole, look at specific groups of costumers
+- Vanity Metrics
+	- Gross costumers
+	- Total revenue
+- Action metrics
+	- Cohort metrics
+	- Have to be actionable
+		- Demonstrate clear cause and effect
+- Test your changes on a cohort before rolling them out to everyone
+- [[Growth Hacking]]
+- 

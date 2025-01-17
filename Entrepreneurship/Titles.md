@@ -1,0 +1,3 @@
+- Not really important if you are small
+	- Not really worth arguing over if you are small
+- Important if someone wants to know who they are dealing with in the company 

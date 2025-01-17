@@ -1,0 +1,13 @@
+ - Kind of like a legally defined person 
+	 - Needs to file taxes
+	 - Hard to kill/ liquidate 
+	 - Divided into stock shares
+ - Purpose - makes it safe to invest money in the corporation without facing legal liability if the corporation gets sued
+ - MAKE A COORPORATION WHEN YOU WANT TO TAKE ON INVESTORS
+ - Should assign [[Titles]] when you make a corporation
+ - Have the conversation about how you're gonna divide the corporation before that decision actually comes
+	 - Or purposefully have a non-conversation about it 
+- [[Board of Directors]]
+- [[Equity]]
+- [[Founding Team]]
+ 

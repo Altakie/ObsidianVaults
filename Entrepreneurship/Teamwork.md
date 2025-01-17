@@ -1,0 +1,23 @@
+- Teamwork is extremely important for creating a successful product
+- Important aspects of working on a team
+	- Communication
+			- Never "ghost" your team members
+			- Always inform team members of schedule changes
+			- Find meeting times that work for everyone
+			- Don't assume things about team members
+			- Only thing you should assume is that everyone is doing their best
+			- Stay positive
+	- Dealing with conflict
+		- Conflict will most likely arise within teams
+		- Deal with it using communication
+		- Know that conflict is normal and will eventually resolve
+	- Effective Meetings
+		- Be prepared for your meeting
+		- Set/know boundaries 
+		- Set a goal for the meeting
+		- Schedule meetings ahead of time 
+		- Don't let one person monopolize the conversation
+		- Let everyone have a chance to speak
+	- Alignment
+		- Make sure you all have the same vision in mind
+		- Do not sweep lack of alignment under the rug 

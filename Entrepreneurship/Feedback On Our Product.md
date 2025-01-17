@@ -1,0 +1,28 @@
+- Find your competitors
+	- direct competition with honey?
+		- taking away investors from honey?
+		- possibly integrate with honey
+- Monetization
+	- Sell data about where students shop
+	- do businesses give a lot of student discounts?
+		- could work better in Europe
+
+- Put in as little effort as possible to MVP
+	- Edit chat gpt's summary
+	- Could read articles
+	- Business profs might be more open to the idea
+	- Have a reading
+		- Give some users reading
+		- Give some users video
+		- Test how effectively they processed the information
+		- How fast did they consume the information
+		- Have a debrief survey after that?
+			- Did you wish it was summarized in a video?
+			- Would you pay for it?
+			- What's the worst part of these readings?
+		- Have a short little quiz after to test how well they processed info
+			- Could be created by chat GPT
+- Hypotheses
+	- Will this make customers more productive?
+	- How are people willing to pay for this?
+	- Is it possible?

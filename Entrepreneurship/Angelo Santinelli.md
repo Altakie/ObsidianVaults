@@ -1,0 +1,103 @@
+#GuestSpeaker 
+- Big Advice
+	- Memento Mori
+		- Remember you will die
+		- Time is limited
+		- Make the most of it
+	- Festiva Lente
+		- Slow is smooth, smooth is fast
+		- Don't rush, you'll actually be better off and take less time if you do things slowly and smoothly
+	- Make a new product in a new market
+		- You make a lot of money in the unknown and the uncertain 
+		- Take every doubt seriously 
+		- The more smart ppl join in on your idea, the better 
+	- Failure isn't permanent 
+		- Reflect on your mistakes
+		- Failing is better than drifting through life 
+		- Get comfortable being uncomfortable 
+	- People 
+		- Good VC's will tell you if you're a bad fit
+		- Look for whether you can scale a company
+		- Get good synergies --> get people you can work well with 
+	- Getting a job
+		- Don't spray and pray with resumes, build a network instead
+	- What u should do
+		- Independent study
+		- Network
+		- Use the free resources your college has rn
+	- When enough smart ppl tell you your idea is bad it's probably bad and you should move on
+- ALL MONEY IS NOT THE SAME
+	- Build your board of directors well
+- Finding people to invest in you
+	- Go to the toughest place first
+	- Go to the good VCs
+		- They might reject you, but they'll give you good advice or tip you off that there's something wrong with your idea
+	- Go to angel's with domain expertise
+		- Good angel's can get you investment from a VC
+- Networking
+	- Do networking in person
+	- How to network
+		- Get real deep knowledge about something you like
+		- Go to alums 
+		- People you know
+			- Friends
+			- Family
+			- Parents of friends
+			- People in your social group
+			- People in your religious group
+- What VC's look for
+	- Huge market
+	- Good idea
+	- Great People (most important)
+		- Never fund a sole entrepreneur
+		- Great people should know how to build a team
+			- Need a team to scale a business
+- Mistakes
+	-  Fall in love with the idea but don't do the due diligence 
+		- Can't say you're gonna be a little better than another company because that company will be advancing too
+	- Have target market figured out
+		- Be specific
+	- What are you selling?
+		- Air 
+			- Something you need
+		- Aspirin
+			- Something that solves a pain
+		- Addiction
+			- Can't stop doing this 
+	- Time isn't your friend
+		- Don't waste it
+		- VC's won't tell you to pivot and won't tell you you're on a sinking ship
+- Sign's of "three legged horses"
+	- Good people are quitting
+	- Board meetings
+	- Missing deadlines 
+	- Observe carefully
+	- When failure gets more costly and product doesn't work
+	- When no one really wants the product
+- Decisions
+	- Resulting bias
+		- Just because it works out doesn't mean it was a good decision
+	- What did you learn from the decision?
+	- What did I know?
+	- Was it luck?
+	- What was the outcome?
+	- Was it a good decision or bad decision?
+- Successful Teams
+	- Characteristics
+		- Curiosity 
+		- Due diligence
+		- Able to accept and adapt to failures 
+		- High energy
+			- Don't want people to burn out
+- If there's a lot of VC's, a lot easier to get an investment 
+- How VCs work
+	- Raise a ton of money
+	- Take 20% of final profits
+	- Also charge a 2% fee on the money invested per year (management fee)
+- Investments
+	- Bad investments show up early 
+	- Good investments take a little bit more time to show up
+- Venture capitalists
+	- During bad economic times you do well
+	- During good economic times you do great
+	- High competition

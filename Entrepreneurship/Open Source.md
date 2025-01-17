@@ -1,0 +1,6 @@
+- The source code is visible to anybody and everybody
+- Does not mean that anybody can use it
+- Needs an open source license to be protected
+	- Means that if you modify the software, must do these things
+		- Make modified software also opensource
+		- Must offer the improvement back to the creator 

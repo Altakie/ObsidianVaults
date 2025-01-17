@@ -1,0 +1,1 @@
+- Contract between two companies where they allow you to use their patent

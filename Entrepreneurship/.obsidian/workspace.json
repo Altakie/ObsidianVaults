@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "1ba8dbe35558a46c",
+    "type": "split",
+    "children": [
+      {
+        "id": "7728c0a955efd3f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85406a2ccedf2d6f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "9598abe22da9dcf3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Building Your Product.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f8074c812d1b120c",
+    "type": "split",
+    "children": [
+      {
+        "id": "27998a0c1d9252cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc1b18f7581423c6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "e9f666165b4f0fb6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#GuestSpeaker",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8846e389d4dd2d3d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f197388448d75bdd",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c3ebac997e52cc3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ffa3755f43d007f7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Building Your Product.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3439eb68a094df57",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Building Your Product.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4b6e1306bb180cfa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "84d148f8a39b2452",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Building Your Product.md"
+              }
+            }
+          },
+          {
+            "id": "9dae7b95da9d05b7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9598abe22da9dcf3",
+  "lastOpenFiles": [
+    "Starting Out.md",
+    "Core Principles of a Successful Startup.md",
+    "Guest Speakers.md",
+    "Founding Team.md",
+    "Coorporations.md",
+    "Pito Salas.md",
+    "Money.md",
+    "Intellectual Property.md",
+    "Funding.md",
+    "Teamwork.md",
+    "Building Your Product.md",
+    "Funnel.md",
+    "Innovation Accounting.md",
+    "Learning.md",
+    "Growth Hacking.md",
+    "Growth.md",
+    "MVP (Minimum Viable Product).md",
+    "Hypothesis.md",
+    "Finding an Issue.md",
+    "Ideas are Cheap.md",
+    "Equity.md",
+    "Board of Directors.md",
+    "Titles.md",
+    "Open Source.md",
+    "Licensing.md",
+    "Christian Hernandez.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}

@@ -1,0 +1,2 @@
+- Can fire the CEO if they own more percentage of the company than the CEO
+	- UNLESS there is a board seat with a special power with the ability to fire the CEO

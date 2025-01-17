@@ -1,0 +1,65 @@
+#GuestSpeaker 
+
+- Tech Companies
+	- Large companies
+		- Pros
+			- Lots of pay and benefits
+			- Lots of interest and opportunities, and mobility
+			- Many products and services
+		- Cons
+			- More processes and politics: takes longer to get things done
+			- Little connection with senior leaders
+			- Less Control over your own fate (could have sudden layoffs)
+			- May need to accept a job offer without knowing what the job will be
+	- Small Companies
+		- Pros
+			- Very focused
+			- More transparent. Connection to senior leaders
+			- Can take initiative to get things done on your own because there is less of a political process
+			- Company lives and breathes one project
+			- Company depends more on you
+		- Cons
+			- Not well known
+			- Less variety of work, tech, and peoples
+			- Less room for mistakes (people will know what you did
+	- Lifestyle companies
+		- Don't really grow explosively
+		- Pay enough to support lifestyle
+		- No shame in working there
+	- Contracts and consultants
+		- Don't work directly for the company
+		- Contractor
+			- Do a lot of work quickly for the company
+			- Always have to look for the next job
+			- Have to network like crazy
+		- Consultant
+			- More of an advising position
+	- Departments
+		- Development or Engineering 
+			- Build the product
+			- Actual coding
+		- Quality Assurance or testing
+			- Test the product works
+		- Product Management
+			- Figure out what customers want 
+			- Turn that feedback into a deliverable
+			- Talk with tech people, see if its possible
+		- Sales
+		- Marketing
+		- Business Development
+			- Licensing
+		- Finance
+			- Manage company's money
+		- Human Resources
+	- Job Offers
+		- Can negotiate deadlines
+		- Okay to accept one job offer and then wait for another
+	- Non-Competes
+		- A promise that when you leave a company you will not join a competing company
+		- Check how long it is in force
+		- Is it actually enforceable? 
+	- Taxes and Benefits
+		- Some companies withhold taxes automatically
+		- 401k deposits are not taxed 
+		- Some companies will match a portion of your salary that you deposit into your 401k
+		- 

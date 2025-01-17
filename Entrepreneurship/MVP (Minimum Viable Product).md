@@ -1,0 +1,25 @@
+
+- Doesn't actually have to be a functioning prototype
+- Any way to receive feedback on your product
+	- Surveys
+	- A prototype
+	- Video MVP
+	- Concierge MVP
+	- Expert Advice
+	- Paper MVP
+- Tests a hypothesis you have about your product
+- First products don't have to be perfect
+	- Bring in early adopters
+		- Early adopters use imagination to fill in what the product could be 
+		- Suspicious of products that are too early
+- Don't spend too much effort on the MVP as then you are wasting resources
+	- Remove features that don't directly contribute to the learning you seek
+- MVP Ideas
+	- Video showcasing product
+- Can start with a really inefficient proof of concept
+- Wizard of Oz testing
+	- User believe they are interacting with an actual product, but its humans who are doing all the work behind the scenes
+- If we don't know who customer is, we don't know what quality is
+	- Features you might see as low quality or bad might be valued by the customer
+- Only way to win is to learn faster than everyone else
+- Launch MVP under different brand name

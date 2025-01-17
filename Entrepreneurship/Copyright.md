@@ -1,0 +1,3 @@
+- Inherently present by being the author of something 
+	- Can apply to many kinds of works
+	- Can be difficult to defend, boundary may be kind of blurry

@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "2d54ab28779d455d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b825846a793a235a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f1d591ab16a27d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intro.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Intro"
+            }
+          },
+          {
+            "id": "2aff38959696824a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Simple Lock Service.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Simple Lock Service"
+            }
+          },
+          {
+            "id": "a43aad9c0848ac66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RPC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RPC"
+            }
+          },
+          {
+            "id": "6ac175cf14f57f48",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "10f621585a621c66",
+    "type": "split",
+    "children": [
+      {
+        "id": "be24045c526c8e25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c09aea838c0af2ff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "205ee331f5dea3b8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "be49e3fda2428a29",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d968278f564c8e26",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa7787c51918ad68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "823805e4ed5bc341",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Simple Lock Service.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Simple Lock Service"
+            }
+          },
+          {
+            "id": "557cc59a950a6d7b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Simple Lock Service.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Simple Lock Service"
+            }
+          },
+          {
+            "id": "218f859147b1328e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b29b618536ef4000",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Simple Lock Service.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Simple Lock Service"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "a43aad9c0848ac66",
+  "lastOpenFiles": [
+    "Simple Lock Service.md",
+    "RPC.md",
+    "Failures.md",
+    "Intro.md",
+    "Labs.md",
+    "Fault Tolerance.md",
+    "Replicated Servers.md",
+    "Adverserial Fault.md",
+    "Untitled",
+    "Fault Tolerance",
+    "Zookeeper.md",
+    "Performance.md",
+    "Consistency.md",
+    "Two Generals Problems.md"
+  ]
+}

@@ -1,0 +1,9 @@
+- Can be money or non-money
+- Still need a goal to quantify them
+- Usually is ROI
+	- Money in > money out
+- Important because you can measure how many people make it to each step
+- Can tell you when to [[Pivot]]
+- Help you establish a baseline
+- Pirate metrics are important and are a part of [[Innovation Accounting]]
+- 

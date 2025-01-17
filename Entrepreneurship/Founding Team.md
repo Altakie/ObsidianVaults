@@ -1,0 +1,7 @@
+ - Personality of founders is important because it determines the culture of the company 
+ - Taking on founders is like getting engaged 
+	 - Must evaluate how good they are for the company 
+- Should hire people with diverse personalities because its better for the company
+	- People that you are trying to bring into the company should have something that you don't already have 
+	- Should also hire people that you like working with 
+- Founders can set the policies of the company and create the company culture 

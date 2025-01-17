@@ -1,0 +1,8 @@
+- Look for problems that YOU have that you would pay money to solve
+- Look for problems in everyday life
+- Be at the leading edge of an industry
+- Don't discard ideas because they are hard or unsexy
+- Make sure that your problem is very important for people to solve
+	- It is better to have a product that a small amount of people want a lot than a product that a lot of people want a little
+- [[Ideas are Cheap]]
+- 

@@ -1,0 +1,23 @@
+-  A blueprint for how the business will function
+	- How you will get money?
+	- How will you create value?
+	- How will you deliver value?
+	- How will you capture value?
+- Business Model Canvas
+	- Customer Segments?
+		- What customers or groups of customers?
+		- Who are the most important ones?
+		- Segments are different if customers require different channels, different types of relationships, different payment models, etc...
+		- NEED A SPECIFIC CUSTOMER IN MIND
+	- Value Proposition
+		- What problem do we solve for the customer?
+		- What product/service do we deliver to the customer?
+		- How do we do that compared to their behavior?
+	- Revenue Streams
+		- Who pays and what do they pay for?
+		- How do you set and adjust the price?
+	- Channels
+		- How do you reach a customer? How do they want to be reached?
+		- Are you able to reach them in that way?
+	- Customer Relationships
+	- Resources

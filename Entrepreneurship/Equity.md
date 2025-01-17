@@ -1,0 +1,21 @@
+- How much of the company you own 
+- Percentages are set through negotiations 
+- Public corporations 
+	- Have to operate the company on established principles that are public
+	- Need to list your financials 
+	- Protects the investor so the company can raise money 
+	- Everybody gets a quantity of the newly published company relative to their current investment in the company 
+		- Very complicated process
+		- Can go back to private by buying all the shares 
+- Private vs Public
+	- Private
+		- More power and control over the company
+	- Public 
+		- More funding and more investors
+- Stock grants 
+	- Shares over years in the company 
+	- Get a certain amount of shares per year or some other measure of time
+- Stock options
+	- Give you options instead of shares 
+	- Not as good as stock
+	- Give you them at a discount

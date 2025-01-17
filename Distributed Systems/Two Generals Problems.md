@@ -1,0 +1,2 @@
+## The Problem
+> Two generals separated by a valley at night need to coordinate a joint attack with each other. They can send a messenger to each other but the messenger can get lost/ attacked. **How do they successfully coordinate an attack with a guarantee that the other one will attack at the same time?**

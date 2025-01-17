@@ -1,0 +1,49 @@
+- Sources
+	- Friends and family
+	- Consulting/work on the side
+	- Angel investors
+		- Usually informal
+	- Venture capital
+	- Incubators/Seed funding companies
+		- Organizations that give you money and coaching
+	- Crowdfunding
+	- Banks
+		- Give you loans
+		- Not very good
+		- Still hav
+- Stages
+	- Pre-seed
+		- Idea/prototype
+		- No revenue
+		- 1-5 founders
+		- Friends and Family, Angel, Incubators
+		- $10k-$100k in investments 
+	- Seed
+		- Angels, incubators seed funds
+		- $100k to $1M
+	- A-round
+		- Super-Angels
+		- $1M to $10M in investments
+- Venture Capital
+	-  A VC firm (LLC)
+	- A firm that connects people who need investment to those who want to invest
+	- Don't invest their own money
+	- Invest money of Limited Partners (people/orgs who give the VC firm money to invest)
+		- Have to manage a large sum of money
+		- Venture capital is just a small percentage of their money
+- Process
+	- Multiple rounds of investment
+		- Valuation increases every round so you can give away less equity for more money
+	- Valuation Changes
+		- Your valuation after you get an investment is the previous valuation (pre-money) + the amount invested in you (this new valuation is called post-money)
+- Terms
+	- |**Pre-money** = Share Price * Number of Shares||
+	- |**Investment** = Share Price * New Shares||
+	- |**Post-money valuation** = Pre-money valuation + Investment||
+	- |**Newly issued shares** = Investment / Share Price||
+	- |**Fraction owned** = Newly Issued Shares / Post Money shares||
+	- |**Post-money shares** = Pre-money shares + Newly Issued Shares||
+	- |**Fraction owned** = Investment / Post-money valuation||
+	- |**Fraction owned** = Investment / (Pre-money valuation + Investment)||
+- Acquisition
+	- Weird

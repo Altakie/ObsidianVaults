@@ -1,0 +1,10 @@
+- You have to make sure your product is actually wanted by consumers before committing a lot of effort to it
+- Ways to do this:
+	- Create an [[MVP (Minimum Viable Product)]]
+	- Interact directly with customers to learn more about them
+- Execution is more important than the idea
+- Build --> Measure --> Learn --> Repeat
+- [[Learning]] is the most important part of the startup process
+- Need to know when to [[Pivot]]
+- The more specific the product the better
+- [[Funnel]] customers into your product

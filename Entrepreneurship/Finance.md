@@ -1,0 +1,22 @@
+- Unit
+	- How many x for every y time
+	- Ex: number of cars/subscriptions 
+- Revenue Related
+	- Revenue vs Bookings
+		- **Revenue**: actual money collected
+		- **Bookings**: contractually obligated, but not collected
+	- Computed as units x price
+- COGS related (Cost of Goods)
+	- **Fixed**: Costs you have even if you don't sell anything
+	- **Variable**: Relative to some independent variable
+	- Not always clear cut division
+- Margin (profits, earnings)
+	- aka: Earnings
+	- Profit = sales - cost
+	- Gross Profit Margin
+		- Only figures in direct costs involved in production
+	- Operating profit margin
+		- Includes operating expenses like overhead
+- OPEX related (operating expenses)
+- Cash
+- Profit Related

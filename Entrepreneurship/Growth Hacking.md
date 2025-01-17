@@ -1,0 +1,47 @@
+- Very aggressive [[Growth]] of a company 
+- Use PIE scale
+	- Potential
+		- Likeliness of project to make big impact
+	- Importance
+		- Is the project actually important?
+		- Who will it affect
+	- Ease
+		- How easy is it to make the change?
+- Take average of three scores
+	- Rate each category on scale of 1-10
+- Always work towards a singular goal
+- Focus on five key [[Metrics]]:
+	- Acquisition
+		- Where do customers come from?
+		- SEO
+		- Social media
+		- Marketing campaigns
+		- Apps and widgets
+		- Advertising
+	- Activation
+		- What % of customers actually buy product/ have a positive experience with it?
+			- Visiting additional pages
+			- Experimenting with additional features
+			- Spending a given amount of time on your site or app
+			- Signing up for your newsletter
+			- Signing up for your free trial
+	- Retention
+		- Do customers come back over time?
+			- Returning to your product repeatedly over a given timeframe
+			- Returning to your website
+			- Opening your company’s emails
+			- Signing up for your RSS feed
+	- Revenue
+		- Can you monetize customer behavior?
+			- Minimum revenue
+			- Break-even revenue
+			- Revenue that exceeds the customer acquisition cost
+	- Referral
+		- Do customers like your product enough to tell ppl?
+			- Emails with referral promotions embedded
+			- Referral contests
+			- Other marketing campaigns designed to make it easy to share the product with others
+		- Referrals also need to be activated
+- Focus on product optimization
+	- 80% feature optimization
+	- 20% new features

@@ -1,0 +1,14 @@
+
+- Lots of people have ideas but few people know how to actually execute them and turn them into a successful business 
+- Domain expertise is important
+	- Go into fields that you know a lot about 
+- Don't be so secretive about your ideas 
+	- If someone can beat you at your idea just from overhearing it, it wasn't worth much anyway
+- How to Find
+	- Find parts in life where something is way more complicated than it should be 
+		- Feels unnatural
+		- Takes too long
+		- Inefficiencies
+	- Think about your domain expertise
+	- Rlly badly want to fix problem
+	- Bigger pain = better idea

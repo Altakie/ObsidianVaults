@@ -1,0 +1,38 @@
+
+- Keep one foot rooted in what you have learned so far but change up your strategy
+- Innovation accounting leads to faster pivots
+- Runway
+	- The number of pivots you can still make
+	- The more pivots you have, the more opportunities you have to save your business by making a fundamental change
+- Don't be scared to pivot
+	- Fear of pivoting stops your vision from being realized
+	- Often decreases your chances of success if you don't pivot
+- Pivot or Persevere?
+	- Have a meeting every few weeks to months to discuss
+- Types of pivots
+	- Customer Segment Pivot
+		- Product is solving problem for different customer than expected
+		- Same product, diff customers
+	- Zoom In Pivot
+		- One feature becomes the whole product
+	- Zoom Out Pivot
+		- Product becomes feature of large product
+	- Customer Need Pivot
+		- Problem being solved for customers isn't as important as thought to be, but customers are known well and another, bigger need has been identified
+		- Same customers, diff product
+	- Platform Pivot
+		- App to platform or vice versa
+		- Go from selling one at a time to selling a product to a category of customers
+	- Business Architecture Pivot
+		- High margin, low volume to low margin, high volume or vice versa
+	- Value Capture Pivot
+		- Basic change in business model or how business is financed 
+	- Engine of Growth Pivot
+		- Viral, sticky, or paid growth models
+	- Channel Pivot
+		- Changes in how product is delivered to customers
+	- Technology Pivot
+		- Different technology being used to deliver same product
+- Pivot when [[Growth]] is unsustainable
+- Pivot when you don't meet your target [[Metrics]] or your hypotheses are proved wrong
+- 

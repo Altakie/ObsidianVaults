@@ -1,0 +1,13 @@
+- Types
+	- [[Patent]]
+	- [[Trade Secret]]
+	- [[Copyright]]
+- Protecting your IP
+	- [[Licensing]]
+	- Decide what you want to release or not
+		- Anything that you release you must protect
+	- To protect
+		- First make it protected, make sure you own it
+		- Then grant others the permission to use it in a controlled way
+- [[Open Source]]
+- 

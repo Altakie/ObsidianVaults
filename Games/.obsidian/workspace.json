@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "9e97574fefb782a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "23c7545d56b7be3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6eb47e8b70626bed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jump King.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Jump King"
+            }
+          }
+        ]
+      },
+      {
+        "id": "c0501308f3ed67c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12d9c6f826b34297",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "699a1eae10cbe241",
+    "type": "split",
+    "children": [
+      {
+        "id": "5cc7af240087c4aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74674854b99c1163",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5f67fb6b1ca8f607",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f7091186301b8b49",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4e27282a9d9f1c4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9605609b780378a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32417c496e1fedf7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dynamic Level Editing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Dynamic Level Editing"
+            }
+          },
+          {
+            "id": "a6212f6eca012a08",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Dynamic Level Editing.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Dynamic Level Editing"
+            }
+          },
+          {
+            "id": "78170e317c149726",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e38a1189015bee7f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dynamic Level Editing.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Dynamic Level Editing"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "12d9c6f826b34297",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-01-14 12.49.01.excalidraw.md",
+    "Excalidraw",
+    "Jump King.md",
+    "Dynamic Level Editing.md",
+    "Level editor.md",
+    "Physics Engine.md"
+  ]
+}

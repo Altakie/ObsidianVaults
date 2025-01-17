@@ -1,0 +1,7 @@
+-  Have to describe your product in excruciating detail but get exclusive rights to this product for a while
+	-  Created so that people are incentivized to invent things but also so that their knowledge doesn't die with them
+	- Cons
+		- Expensive to prepare
+		- Needs lawyers
+		- May or may not be granted
+		- Will be expensive to defend

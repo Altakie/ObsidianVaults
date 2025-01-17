@@ -1,0 +1,25 @@
+#GuestSpeaker 
+-  People
+	-  Kind of run tests on the people you want to work with
+-  Finding a Job
+	-  Ask people to watch them work for a day and see if you would enjoy that job
+-  Anxiety
+	-  Know yourself
+	-  Get exercise
+	-  Get more sleep
+	-  Lets you withstand more no's
+	- Health and wellness should be a part of your job because it makes you perform better
+- Teams
+	- Check in with your team members
+	- Give them a feedback loop to feel good about themselves 
+- Startups
+	- If you want to work for startups, make connections and find investors. That way you can get referred into a company 
+	- Prove that you were super excited to work for that company 
+	- Instead of applying to 150 companies, apply to 15 and show that you put effort in your application and show proof of work
+		- Reach out to the CEO or hiring manager on linked in
+	- When you first start the job, prove value to the company, work hard, but then once you proved your worth, you can set boundaries 
+		- When people start going to you about complex problems
+		- If your work aligns with the hardest problems of the company 
+		- You'll get subtle hints
+		- Even before that, set reasonable boundaries 
+		- Put your best foot forward but don't stress yourself out
