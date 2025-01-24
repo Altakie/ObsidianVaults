@@ -77,16 +77,56 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WTF.md",
+                "file": "First Order Differential Equations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WTF"
+              "title": "First Order Differential Equations"
+            }
+          },
+          {
+            "id": "743a5faaad8bb107",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "First Order Differential Equations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "First Order Differential Equations"
+            }
+          },
+          {
+            "id": "05b4545df301ab71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "First Order Differential Equations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "First Order Differential Equations"
+            }
+          },
+          {
+            "id": "f623fa125aff49a6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Hw 1.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Hw 1"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -229,13 +269,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b5f105d66044e840",
+  "active": "f623fa125aff49a6",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-01-14 13.15.15.excalidraw.md",
-    "WTF.md",
-    "Excalidraw/Drawing 2025-01-14 13.09.57.excalidraw.md",
-    "Excalidraw/Drawing 2024-10-02 15.16.58.excalidraw.md",
+    "Images/Pasted Image 20250121145846_893.png",
+    "Excalidraw/Hw 1.md",
+    "Images",
+    "Images/Pasted Image 20250121151539_266.png",
+    "Images/Pasted Image 20250121151526_203.png",
+    "Images/Pasted Image 20250121151515_802.png",
+    "Images/Pasted Image 20250121151505_089.png",
+    "Images/Pasted Image 20250121151452_399.png",
+    "Images/Pasted Image 20250121151421_372.png",
+    "Images/Pasted Image 20250121151310_453.png",
+    "Images/Pasted Image 20250121151149_231.png",
     "Excalidraw/Drawing 2024-10-02 15.38.39.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-14 13.15.15.excalidraw.md",
+    "Excalidraw/Drawing 2024-10-02 15.16.58.excalidraw.md",
+    "First Order Differential Equations.md",
+    "Introduction to DEs.md",
+    "desktop.ini",
     "Excalidraw",
     "Ink/Writing/2024.8.28 - 13.56pm.writing",
     "Ink/Drawing/2024.8.28 - 13.54pm.drawing",
@@ -243,7 +295,6 @@
     "Ink/Writing/2024.8.28 - 13.54pm.writing",
     "Ink/Writing/2024.8.28 - 13.53pm.writing",
     "Ink/Writing",
-    "Ink",
-    "desktop.ini"
+    "Ink"
   ]
 }

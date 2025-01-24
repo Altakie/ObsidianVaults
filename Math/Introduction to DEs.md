@@ -1,6 +1,6 @@
 # 1.1 Direction Fields
 
-> Direction fields are like vector fields but they denote direction instead and you can see direction from them because they are denoted as lines 
+> Direction fields are like vector fields but they denote direction instead and you can see direction from them because they are denoted as lines. Useful for finding equilibriums.
 > ![Direction Field](https://images.squarespace-cdn.com/content/v1/533db07de4b0d9f7ba7f1e77/1531405502901-FC694UQ1OKIXKG3C1G4Q/solution+curve+in+the+direction+field.png)
 ### Example: 
 > Suppose an object is falling near the sea level. Formulate a diff eq that describes the motion:
@@ -69,12 +69,7 @@ The equation solution is v = 49
 
 ### Ex 2:
 > Initial Value Problem
-> Suppose this object is dropped from a height of 300m. Find its velocity at any time t.
-> where v satisfies
-> $$
- dv/dt = 9.8 - v/5
- $$
- > How long does it take to fall to the ground. How fast will it be falling at the time of impact?
+> Suppose this object is dropped from a height of $300m$. Find its velocity at any time $t$ where $v$ satisfies $dv/dt = 9.8 - v/5$.  How long does it take to fall to the ground. How fast will it be falling at the time of impact?
  
  $$
 \displaylines{
@@ -84,10 +79,7 @@ The equation solution is v = 49
  v(t) = 49 - 49e^{-t/5} 
  }
  $$
- Choose coordinate system for $$\gamma (t)$$ such that 
- $$
- \gamma (0) = 0
- $$
+ Choose coordinate system for $\gamma (t)$ such that $\gamma (0) = 0$
  $$
  \displaylines{
  dx/dt = v(t) = 49 - 49e^{-t/5} \\
@@ -126,3 +118,23 @@ $$
 
 ## PDE
 > Multiple independent variables (Partial Diff eq)
+
+
+## Equation
+> One dependent variable
+
+## System
+> Two or more dependent variables
+
+## Order
+> Order of the highest derivative 
+- nth order ODE can be written as $F(t, y', y'', y^{'(n)})$
+## Linear vs Non-Linear
+> ODE is linear if $F$ is a linear function of the variables $y, y', ..., y^{'(n)}$
+
+## Examples
+- Linear DE, (2cnd order) --> $u_{xx} + u_x = \gamma$
+- Non-Linear DE (3rd order)--> $y'' + 2e^t + yy' = t^4$ (because two derivates of diff orders cannot be multiplied by each other in a linear function --> look at third term)
+
+
+
