@@ -4,33 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "26d1dfdfacd67f71",
+        "id": "71377b0fc76e2188",
         "type": "tabs",
         "children": [
           {
-            "id": "ab15003788c070d9",
+            "id": "a6dd65d73adf4b17",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "8411914fa36c035d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-01-17 09.45.00.excalidraw.md"
+                "file": "Procedures.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-01-17 09.45.00.excalidraw"
+              "icon": "lucide-file",
+              "title": "Procedures"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2025-01-17 09.45.00.excalidraw.md",
+                "file": "Procedures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Drawing 2025-01-17 09.45.00.excalidraw"
+              "title": "Backlinks for Procedures"
             }
           },
           {
@@ -171,11 +162,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8411914fa36c035d",
+  "active": "a6dd65d73adf4b17",
   "lastOpenFiles": [
-    "desktop.ini",
+    "Welcome.md",
+    "Procedures.md",
     "Excalidraw/Drawing 2025-01-17 09.45.00.excalidraw.md",
-    "Excalidraw",
-    "Welcome.md"
+    "desktop.ini",
+    "Excalidraw"
   ]
 }
