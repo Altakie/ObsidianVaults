@@ -12,3 +12,9 @@
 2. Multiply both sides of the equation by $u(t)$ 
 3. Identify what the left hand side of the equation is a derivative of, and rewrite it like that 
 4. Integrate out the derivative to find general solution
+
+## Separable Differential Equations
+>  Section 2.2 in text
+
+$$ dy/dx = (f(x,y))$$
+	

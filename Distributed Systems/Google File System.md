@@ -1,0 +1,4 @@
+## Reading Question
+Describe a sequence of events that would result in a client reading stale data from the Google File System.
+
+>A series of steps that could result in a client reading stale data form GFS is first a client reads from a chunkserver,  then that chunkserver goes down while a mutation occurs on another chunkserver. This means that chunkserver is not updated with the most up to date information from the other replicas. However, the client that interacted with that chunkserver before it went down cached its chunk handle, and that cached chunk handle didn't expire. This client now wants to read information from GFS again, so because the client has the stale chunkserver cached, it reads from it and gets stale data. This would only happen in the window where the client's cache entry did not expire.
