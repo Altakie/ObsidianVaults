@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Google File System.md",
+                "file": "Labs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Google File System"
+              "title": "Labs"
             }
           }
         ],
@@ -125,7 +125,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -251,13 +252,14 @@
   },
   "active": "3f09e58d8ce0852c",
   "lastOpenFiles": [
+    "Storage Server.md",
+    "Labs.md",
     "Google File System.md",
+    "Simple Lock Service.md",
     "Linearizability.md",
     "Consistency.md",
     "Readings.md",
     "Map Reduce.md",
-    "Simple Lock Service.md",
-    "Labs.md",
     "Fault Tolerance.md",
     "Replicated Servers.md",
     "RPC.md",

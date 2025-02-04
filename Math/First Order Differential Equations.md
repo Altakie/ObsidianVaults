@@ -40,3 +40,33 @@
 		- Interval of Existence for linear case doesn't depend on $y_0$, this does
 		- Not always applicable
 	- In English, this basically means that you need to solve the equation to figure out the interval of existence
+## Autonomous ODE and Population Dynamics
+> Section 2.5 in text
+
+### Autonomous Equations
+- An equation in which the independent variable does not appear explicitly 
+	- Independent variable is usually time
+### Types of Population Dynamics
+- Simple model
+	- $p' = \gamma p$
+	- Autonomous (no 1)
+- 
+	- $p' = \gamma (1 - \frac{p}{10}) p$
+	- Autonomous (no t)
+### Phase Line
+- Like a simplified direction field
+	- Think a number line but with arrows on the number line that point in the direction the value is changing along an interval
+
+### Stable and Unstable Equilibriums
+- Stable
+	- Solutions approach equilibrium from both sides
+- Unstable
+	- Solutions diverge from equilibrium from both sides
+	- Also known as a source
+- Asymptotically Stable
+	- Solutions approach equilibrium from both sides and end up in equiibrium
+	- AKA sink
+	- Not the same as stable
+- Semi-stable
+	- Solution approaches from one side but diverges from other
+	- Follow same direction/ do not change behavior after equillibrium point

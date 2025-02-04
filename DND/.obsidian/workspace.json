@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "6579e72613572e82",
+    "type": "split",
+    "children": [
+      {
+        "id": "523202db20820a2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bcc8156b8624ff2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Americosmos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Americosmos"
+            }
+          },
+          {
+            "id": "881107dcf884b83c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Character Sheet.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Character Sheet"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0869749f98f9c60a",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f24f53153b41a56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25a700f85e6e33cc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "23746a0849f19366",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d994c04d765b925a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "beccbd181d0bd59d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b08ffe1a5b26d50b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f780026e5f48cfcf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Excalidraw/Character Sheet.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Character Sheet"
+            }
+          },
+          {
+            "id": "11c560d825cc0e4f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Excalidraw/Character Sheet.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Character Sheet"
+            }
+          },
+          {
+            "id": "b6ac7b1b8f403d77",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a6b69c7ae96bdcba",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/Character Sheet.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Character Sheet"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "881107dcf884b83c",
+  "lastOpenFiles": [
+    "Americosmos.md",
+    "Excalidraw/Character Sheet.md",
+    "Candy Malus.md",
+    "Candy Malus.pdf",
+    "Excalidraw"
+  ]
+}

@@ -49,14 +49,12 @@
             "id": "aba99fdf096bbe43",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "First Order Differential Equations.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/Pasted Image 20250121151539_266.png"
               },
-              "icon": "lucide-file",
-              "title": "First Order Differential Equations"
+              "icon": "lucide-image",
+              "title": "Pasted Image 20250121151539_266"
             }
           }
         ],
@@ -79,7 +77,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -205,15 +204,17 @@
   },
   "active": "aba99fdf096bbe43",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-10-02 15.16.58.excalidraw.md",
+    "Temp.md",
+    "Images/Pasted Image 20250121151539_266.png",
     "First Order Differential Equations.md",
+    "Excalidraw/Drawing 2025-01-31 13.29.32.excalidraw.md",
+    "Excalidraw/Drawing 2024-10-02 15.16.58.excalidraw.md",
     "Overview.md",
     "Excalidraw/Drawing 2024-10-02 15.38.39.excalidraw.md",
     "Introduction to DEs.md",
     "Excalidraw/Hw 1.md",
     "Images/Pasted Image 20250121145846_893.png",
     "Images",
-    "Images/Pasted Image 20250121151539_266.png",
     "Images/Pasted Image 20250121151526_203.png",
     "Images/Pasted Image 20250121151515_802.png",
     "Images/Pasted Image 20250121151505_089.png",

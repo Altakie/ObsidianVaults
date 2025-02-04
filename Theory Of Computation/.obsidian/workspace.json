@@ -67,34 +67,56 @@
             "id": "7cf9b788cc7a60bc",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/NFA Practice.md"
+                "file": "Regular Languages.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "NFA Practice"
+              "icon": "lucide-file",
+              "title": "Regular Languages"
+            }
+          },
+          {
+            "id": "f34d1684bdacffc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Regular Languages.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Regular Languages"
             }
           },
           {
             "id": "e9a486d76f4d88b9",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-01-28 18.31.49.excalidraw.md"
+                "file": "What is Theory of Computation.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-01-28 18.31.49.excalidraw"
+              "icon": "lucide-file",
+              "title": "What is Theory of Computation"
             }
           },
           {
-            "id": "ccc57d8483d4f7d9",
+            "id": "247a39a706a3790c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Regular Languages.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Regular Languages"
             }
           }
         ],
@@ -117,7 +139,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -170,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What is Theory of Computation.md",
+                "file": "Regular Languages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +203,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for What is Theory of Computation"
+              "title": "Backlinks for Regular Languages"
             }
           },
           {
@@ -226,8 +249,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,22 +262,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e9a486d76f4d88b9",
+  "active": "f34d1684bdacffc1",
   "lastOpenFiles": [
-    "Excalidraw/NFA Practice.md",
-    "Excalidraw/Drawing 2025-01-28 18.31.49.excalidraw.md",
-    "Excalidraw/DFA Practice.md",
-    "Non-Deterministic Finite Automata.md",
-    "Excalidraw/Drawing 2025-01-28 18.20.27.excalidraw.md",
-    "2025-01-16.md",
-    "Finite Automata.md",
-    "Complexity Theory.md",
+    "Regular Expressions.md",
+    "Regular Languages.md",
     "Deterministic Finite Automata.md",
+    "Excalidraw/DFA Practice.md",
+    "Excalidraw/NFA Practice.md",
+    "Excalidraw/Differences Between NFA and DFA.md",
+    "Excalidraw/Drawing 2025-01-30 17.58.32.excalidraw.md",
+    "String Theory.md",
     "What is Theory of Computation.md",
+    "Non-Deterministic Finite Automata.md",
+    "Finite Automata.md",
+    "2025-01-16.md",
+    "Excalidraw/Drawing 2025-01-28 18.20.27.excalidraw.md",
+    "Complexity Theory.md",
     "Excalidraw",
     "Automata Theory.md",
-    "Regular Languages.md",
-    "String Theory.md",
     "String.md",
     "Computability Theory.md"
   ]
