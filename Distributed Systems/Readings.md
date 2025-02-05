@@ -1,2 +1,3 @@
 - [[Map Reduce]]
 - [[Google File System]]
+- [[Paxos]]

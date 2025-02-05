@@ -28,6 +28,12 @@
 			- Make new server backup
 	- Can only have one primary
 		- This primary has to have state
+		- Use leases to ensure there is only one primary
+			- View server should enforce leases
+				- Allow for extension of lease by pinging primary and backup
+					- If primary hasn't responded in a certain amount of time, assume it is down
+				- After lease expires, reassign primary to backup, then recruit new backup
+				- Inform clients of new primary and backup
 	- Everything should go through view server
 		- This means client communications
 		- This also means server communications

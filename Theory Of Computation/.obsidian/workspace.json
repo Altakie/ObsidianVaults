@@ -139,8 +139,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -264,14 +263,14 @@
   },
   "active": "f34d1684bdacffc1",
   "lastOpenFiles": [
-    "Regular Expressions.md",
+    "String Theory.md",
     "Regular Languages.md",
+    "Regular Expressions.md",
     "Deterministic Finite Automata.md",
     "Excalidraw/DFA Practice.md",
     "Excalidraw/NFA Practice.md",
     "Excalidraw/Differences Between NFA and DFA.md",
     "Excalidraw/Drawing 2025-01-30 17.58.32.excalidraw.md",
-    "String Theory.md",
     "What is Theory of Computation.md",
     "Non-Deterministic Finite Automata.md",
     "Finite Automata.md",

@@ -1,4 +1,4 @@
-
+	
 > Form is $dy/dt = f(t,y)$
 # Ways to Solve
  - Linear - Integrating Factor

@@ -49,12 +49,14 @@
             "id": "aba99fdf096bbe43",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Pasted Image 20250121151539_266.png"
+                "file": "First Order Differential Equations.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted Image 20250121151539_266"
+              "icon": "lucide-file",
+              "title": "First Order Differential Equations"
             }
           }
         ],
@@ -77,8 +79,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -204,8 +205,8 @@
   },
   "active": "aba99fdf096bbe43",
   "lastOpenFiles": [
-    "Temp.md",
     "Images/Pasted Image 20250121151539_266.png",
+    "Temp.md",
     "First Order Differential Equations.md",
     "Excalidraw/Drawing 2025-01-31 13.29.32.excalidraw.md",
     "Excalidraw/Drawing 2024-10-02 15.16.58.excalidraw.md",
