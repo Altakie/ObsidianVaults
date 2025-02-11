@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "First Order Differential Equations.md",
+                "file": "Second Order Differential Equations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "First Order Differential Equations"
+              "title": "Second Order Differential Equations"
             }
           }
         ],
@@ -79,7 +79,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -193,6 +194,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-matrix:Obsidian Matrix": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -205,14 +207,15 @@
   },
   "active": "aba99fdf096bbe43",
   "lastOpenFiles": [
+    "First Order Differential Equations.md",
+    "Introduction to DEs.md",
+    "Second Order Differential Equations.md",
     "Images/Pasted Image 20250121151539_266.png",
     "Temp.md",
-    "First Order Differential Equations.md",
     "Excalidraw/Drawing 2025-01-31 13.29.32.excalidraw.md",
     "Excalidraw/Drawing 2024-10-02 15.16.58.excalidraw.md",
     "Overview.md",
     "Excalidraw/Drawing 2024-10-02 15.38.39.excalidraw.md",
-    "Introduction to DEs.md",
     "Excalidraw/Hw 1.md",
     "Images/Pasted Image 20250121145846_893.png",
     "Images",

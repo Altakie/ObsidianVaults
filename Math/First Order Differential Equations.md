@@ -35,6 +35,7 @@
 	- In English, this basically means that if $p(t)$ and $g(t)$ are continuous on some interval, there is a solution for every t on that interval
 - Existence and Uniqueness Theorem (1st order **non-linear** DE)
 	- If the functions $f(t)$ and $df/dy$ are continuous on an open interval $I: a < t < b,\ c < y < d$ containing $(t_0,y_0)$, then in some interval $t_0 -h < t < t_0 +h$ there is a unique solution $y= \phi (t)$ that satisfies the Initial value problem 
+	- $f(t)$ is in form $dy/dt = smth$
 	- Key Differences with other theorem
 		- **Cannot** find an Interval of Existence without solving ODE
 		- Interval of Existence for linear case doesn't depend on $y_0$, this does
@@ -49,7 +50,7 @@
 ### Types of Population Dynamics
 - Simple model
 	- $p' = \gamma p$
-	- Autonomous (no 1)
+	- Autonomous (no t)
 - 
 	- $p' = \gamma (1 - \frac{p}{10}) p$
 	- Autonomous (no t)
