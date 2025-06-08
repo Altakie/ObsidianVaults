@@ -1,0 +1,67 @@
+- Intended to be a decentralized trust-less app
+- World computer 
+	- Integrity
+	- Open participation
+	- Compute + storage
+	- Anyone can upload programs
+	- Built in currency system
+- Smart Contracts
+	- Just programs running on Etherium
+	- External accounts can call methods on these smart contracts
+- Put simply:
+	- **Etherium is basically just a replicated state machine on top of a shared log**
+- **Proof of Stake**
+	- Run agreement in a small subset of all participants
+	- Byzantine Fault Tolerance
+	- Committee must be selected fairly
+		- VRF
+		- Runs a lottery through participant
+		- Give it your private key
+		- Produces a value that looks random which tells you whether you are in the committee, a leader, or just standby
+		- This value can be verified by other machines using your public key
+		- Messages are signed
+		- Can only participate if you have tokens
+		- The more tokens you have, the more likely you are to be selected
+	- Committee should not be subverted
+	- Only stops people with low resources from attacking
+- Accounts
+	- Address
+		- Externally owned account
+			- Only has balance
+	- Contract accounts (related to this program)
+		- Balance
+		- Code 
+		- State
+- Transactions
+	- Deploy a contract (code, value, money)
+	- Send a message (address, method, data, value)
+		- Similar to procedure call
+	- Atomic Transfers
+		- Hash lock
+			- Prevents asset transfer unless contract receives matching secret
+		- Time Lock
+			- Prevents asset from being transferred until specific time *t*
+		- Combination of both leads to atomic transfers
+			- 
+- Etherium Virtual Machine
+	- Low level language
+	- Gas
+		- Get max gas with transaction
+		- Gas is a cost per operation
+		- If you run out of gas, operation aborts
+- Example Applications
+	- Etherium name service
+	- ERC-20 
+		- Like a bitcoin "Bank"
+		- Issue tokens
+		- Track balance for every user
+		- Distributed finance applications
+- Finality
+	- Blocks are confirmed a lot faster
+		- With high probability
+	- Proof of stake makes confirming blocks a lot faster
+	- Only need to wait for block with final state to commit and a few blocks to commit after it
+- DAO Exploits
+	- Autonomy
+	- Client contract could be malicious and so calling client methods is bad
+	- Client method in this case calls withdraw again when it is supposed to be sending money

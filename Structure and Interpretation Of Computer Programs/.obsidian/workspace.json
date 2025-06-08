@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data.md",
+                "file": "Lexical Addressing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data"
+              "title": "Lexical Addressing"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data.md",
+                "file": "Lexical Addressing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Data"
+              "title": "Backlinks for Lexical Addressing"
             }
           },
           {
@@ -165,10 +165,17 @@
   },
   "active": "a6dd65d73adf4b17",
   "lastOpenFiles": [
-    "Procedures.md",
-    "Data.md",
-    "Welcome.md",
+    "Register Machine Compiler.md",
+    "Lexical Addressing.md",
+    "Programming Language Features.md",
     "Excalidraw/Drawing 2025-01-17 09.45.00.excalidraw.md",
+    "Evaluators.md",
+    "State.md",
+    "Continuations.md",
+    "Streams.md",
+    "Data.md",
+    "Procedures.md",
+    "Welcome.md",
     "desktop.ini",
     "Excalidraw"
   ]

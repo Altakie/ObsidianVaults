@@ -1,0 +1,69 @@
+- Protocol doesn't know how many nodes have log
+- Permission-less Agreement
+	- You don't know who is voting
+- Blockchain
+	- A log of transactions (called ledger)
+	- Actual transactions have lots of detail to prevent faking
+	- Contains all transactions on all coins
+	- Blocks
+		- Collection of transactions
+		- Contain hash to previous block
+			- Creates order
+		- Contains reward transaction
+			- If you mine the "nonce", you get a small amount of bitcoin
+			- Diminishing over time
+			- If you mine a block, there is a proof that you mined that block, so you are allowed to start a new transaction chain, thus creating a new coin
+		- Contains list of transactions in this block
+		- Contains "Nonce"
+			- Proof of work
+			- Contains a certain number of zeros at the beginning of the block
+			- Takes around a CPU month to find for a single computer
+				- However, a lot of nodes are trying to mine block in parallel, which makes this take about 10 minutes
+				- Variance is high
+				- Miner that mines block floods it over the network
+		- Contains current timestamp
+		- New block generated about 10 minutes since previous block
+		- Peer believes a transaction when he sees it in the block chain
+	- Example:
+		- Peers are mining
+		- A transaction happens
+		- Peers that hear it include it in the next block that they are mining
+	- Forks
+		- Happen when two peers find a nonce at the same time
+		- When this happens, shorter fork dies out and longer fork is accepted
+		- Likely that transaction is included in both forks
+- Notation
+	- pub(user1) - Public key of user 1
+	  - H(prev) - cryptographic hash of previous function for this coin
+	  - sig(user 2) - signature over function by previous owner
+- Example Transaction
+	- $X$ pays coin to $Y$
+	- $Y$ buys cup of coffee from $Z$
+	- Transaction chain contains:
+		- $T_6$: $pub(X)...$
+		- $T_7$ : $\{pub(Y), H(T_6)\}(Sig(X))$
+		- $T_8$ : $\{pub(Z), H(T_7)\}(Sig(Y))$
+	- Transaction headers are signed (that's what $Sig(Y)$ is)
+- Practicality
+	- Not practical with normal day to day transactions, however, it is faster to transfer money through bitcoin
+	- Need to make sure your transaction is not reversible
+		- The more blocks are after your transaction, the more likely your transaction is permanent and there is no fork
+- Attacks
+	- Need a lot of computational power to create longer chain and invalidate transactions
+	- Deemed unlikely
+- Key Problems
+	- **Spending someone else's money**
+		- Owning a coin
+			- You own a coin if the last transaction related to that coin was given to your public key
+			- This is because the next transaction from that coin needs to be signed by your private key or it will be rejected.
+			- Thus, if you signed a transaction can be easily verified if you know someone's public key
+	- **Double spending**
+		- Can be prevented if everyone sees all transactions
+		- Bitcoin peer network
+			- Many computers participate in agreement
+			- Each participant has copy of ledger
+			- Each participant is TCP connected to a few other peers
+			- Transactions are batched into blocks and distributed to everyone
+				- Blocks are flooded to all peers using gossiping (basically, you hear it and you forward it to your know peers)
+				- Flooding ensures everyone sees it
+			- Peers can be malicious, but assumed that majority of peers is good

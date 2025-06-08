@@ -1,0 +1,78 @@
+- **Main Goal**
+	- Consistency without performance trade-offs
+- Uses RDMA
+	- Remote Direct Memory Access
+	- All data stored in RAM
+	- Instead of querying another machine for access to its memory, directly accesses the other machine's memory through DMA
+	- No CPU interrupts
+- Making memory less volatile (persistent)
+	- Memory is non-volatile because they use uninterruptible power supplies (store a few minutes of power)
+	- If power is about to fail, write to disk
+	- On restart, read disk to memory
+	- Replicated so that independent failures don't cause loss of data
+- Bottlenecks
+	- Network
+		- Want to use local data as much as possible
+- Symmetric data model
+	- Computations and data stored on same machine
+	- 2 Reasons:
+		- CPU is mostly idle during RDMA, so don't want to waste resources
+		- Local access to memory is faster
+- Use Shared Address Space
+	- Mostly for RDMA (performance)
+- Objects
+	- Ids
+		- Region number, address
+	- Objects have header with version number and lock flag
+- Logs
+	- Logs for each other server
+	- Incoming message queue
+- Transactions
+	- Atomic execution of multiple operations
+		- Read
+		- Write
+		- Alloc
+		- Dealloc
+	- Strictly serializable for strong consistency
+	- 2 Phase commit
+		- Buffer writes
+	- **Protocol**
+		1.  Read objects you need without locking, remember version numbers
+		2. Locally buffer writes
+			- These first two steps are the execute phase
+			- This is optimistic concurrency control because it makes the changes first and then checks if it can apply them later
+		3. Lock
+			- Logged in RAM
+			- Primary server checks if lock flag is set
+			- If transaction client (TC) finds any of data is locked, aborts
+				- Add abort to log for all primaries so they can release locks
+		4. Validate
+			- Recheck lock and version numbers (make sure they are the same)
+			- If something is wrong, abort
+			- Performance optimization
+		5. Commit backup
+		6. Commit 
+			- Copy new value to object's memory
+			- Increment version
+			- Unlock (through log)
+		7. Truncate 
+- Lock free reads
+	- Transaction with single read
+	- No guarantees between reads
+	- Optimization
+		- Traditional: Read version, read data, then read version again, make sure it hasn't changed
+		- Writes
+			- Lock all cache line versions related to object
+			- Update data
+			- Unlock and increment version
+			- All local so not much complexity added
+		- Reads
+			- Single read
+				- Fetch object
+				- Check all cache line versions match
+	- This is optimistic concurrency control (read first, validate after)
+- Locality
+	- Put related objects in the same place
+- Hashtable
+	- Can build other data structures on top of it as well
+- **Doesn't work across multiple data centers**

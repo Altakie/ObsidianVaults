@@ -1,0 +1,3 @@
+- More powerful than regular languages
+	- Super set of regular languages
+- Described by [[Context-Free Grammars]] and pushdown-automata

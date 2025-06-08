@@ -1,0 +1,21 @@
+- **Main Goal**
+	- If you store your data somewhere you don't trust, ensure that you will always get the data you stored in that database back/ you can check if it has been modified
+	- Legit modifications all appear and appear in the right order
+- Design
+	- Log of operations
+	- Whenever a read or write happens, it is logged and the entire log up to that point is signed
+	- Fetches/reads need to be logged or server can give a stale view
+		- Client checks that its fetch is in the log and rejects it if it is not
+		- Still can fork, but forks will be consistent
+			- Client that is forked can never see a state with updates from other users as those updates will have different signatures
+			- Other clients will also never see that client's updates
+			- Forks easily detectable if clients communicate
+			- Can detect forks by having an automated user commit every time interval
+				- This is slow though and causes the log to grow
+	- ***How the fuck do I handles and trees work???***
+		- Tree's basically store hashes of data instead of data
+		- Can verify a signed hash
+		- Each user/group stores a hash of a merkle tree
+			- That merkle tree contains their entire file system
+			- There are also version vectors that show how many updates each user has made. 
+				- When the version vectors are compared between users, a fork can be detected because each client will be able to verify that they saw all of each others' changes

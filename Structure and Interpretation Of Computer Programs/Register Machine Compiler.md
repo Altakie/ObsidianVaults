@@ -1,0 +1,37 @@
+- Main Registers
+	- Value Register
+		- Evaluated value
+	- Function Register
+	- Environment Register
+		- Registers aren't actually capable of storing the environment (too large)
+		- Could store pointer to environment
+	-  Continuation Register
+- Main functions
+	- Set 
+		- Set register to value
+	- Continue
+		- Call continuation using continuation register
+	- Invoke
+		- Procedure call using register contents
+		- Invoke what is in the function register
+		- Argument to function is in value register
+	- Make procedure
+		- Code
+		- Environment
+	- Make continuation
+		- Code
+		- Function
+		- Environment
+		- Continuation
+			- Stack of other continuations
+	 - Resets environment register and continuation register, and function register back to what it was before
+	 - THEN RUNS THE CODE
+- Continuation returns to initial value after evaluating something
+- Compiling the application
+	- Compile function and put it in the value register (the value is the compiled function)
+	- Then run continuation
+		- The continuation sets the function register to the value in the val register (WHICH IS THE COMPILED FUNCTION)
+		- How does it do this?
+			- It makes a new continuation and passes the VALUE register as the function argument
+			- When the continuation runs to evaluate the argument code, it resets the function register to not be what it was before, but the new function
+	- If you simulate a new machine, can ask the compiler to compile itself and get a new compiler for the new machine? Not sure how this works

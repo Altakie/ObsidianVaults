@@ -2,3 +2,4 @@
 - [[Google File System]]
 - [[Paxos]]
 - [[Zookeeper]]
+- [[Chain Replication]]

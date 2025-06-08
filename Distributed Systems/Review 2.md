@@ -1,0 +1,144 @@
+# FARM
+- Want to have fast speeds with little compromises
+- Non volatile RAM
+	- Connected to uninterruptible power supply
+	- If detects power failure, writes to disk
+	- Eliminates expensive disk writes
+- RDMA
+	- Eliminates CPU involvement in remote memory access
+	- No interrupts
+- Protocol to atomically commit
+	- Optimistic
+	- Execute phase
+		- Transaction runs and gets versions
+	- Lock phase
+		- Set lock bit
+	- Validate Phase
+	- Update Phase
+		- Update backups first
+		- Then update primary
+			- By the time the transaction is revealed, it is guaranteed that data will survive a amount of failures
+
+# Memcache
+- Cache between web-server and database to protect database from overload
+- Client reads from cache
+	- If client misses its key value, it reads from the actual database and places its value in the cache
+	- If client changes a value, it removes it from the cache
+  - Cache Design
+	  - In memory
+	  - Replicate cache for hot items
+  - Optimizations
+	  - Stale values
+		  - Can happen if one client fetches a value while the other one updates
+		  - Database can go invalidate all caches, but does not happen at the same time
+	  - Optimization 2
+	  - Optimization 3
+
+# PNUTS
+- System tailed to workload (social media platforms)
+- Data locality
+- Structure
+	- Multiple data-centers
+		- Full replica in each data-center
+		- Each replica is locally sharded (in the data-center)
+		- One shard is designated as primary for a piece of data
+			- Primary moves around with the data-center it is most frequently accessed from
+	- Centrally managed (service)
+	- Message Broker
+		- Replicated with log
+		- Primary updates message broker
+			- Published as a topic
+		- If committed to message broker, committed
+		- Message broker will propagate updates to replicas
+	- Router
+		- Stores where primary is for each piece of data
+	- Per record timeline consistency
+		- Updates per records are in order
+		- But not between records
+- Read types
+	- Read any
+		- Read any version
+	- Read version
+		- Get a version or later
+	- Read latest
+
+# RAY
+- Distributed futures
+	- Asynchronous RPC
+		- Get a handle/ pointer instead of actual data
+	- Lots of threads, each do small task
+		- Only computations
+	- No overhead, no scheduling
+- Data is all immutable
+- Ownership based scheduling
+	- Process has to keep track of metadata of its child processes
+	- Parent is called owner here
+	- Tree of ownership
+		- Metadata distributed among the nodes
+	- Updates to metadata are local
+- **Metadata management and recovery is the most important part here**
+- Lineage based reconstruction
+	- Re-execute operations from start
+	- If owner crashes, child processes will crash too and stop
+- Widely used
+# Boki
+- Stateless server-less computing with shared logs
+- Log needs to be replicated and sharded
+	- Each log is individually serial
+	- Each log is replicated 3 times (written in 3 places)
+- Key Question
+	- How to reconstruct sharded log?
+		- Meta-log
+	- Explained in figures 2 and 3
+- Meta-log
+- Sequencer
+	- Primary backup
+- Optimizations
+	- Log API (Logbook)
+		- Look at workflow application in paper
+		- Library for it
+- Good for general application
+# SUNDR
+- Efficient management of resources between virtual machines
+	- Let applications use as much as they need
+- How to store data in storage system that is unreliable
+	- Store data and hash (both signed)
+- File-system as log of operations
+	- Put in log not only updates, but also reads
+	- Signature cascades somehow?
+- Version table
+	- Data structure
+	- Every update creates a new version
+		- Version has new signature
+		- Very confusing
+	- Version tables should be able to be ordered, else something went wrong
+	- **Check out fork consistency**
+		- Since reads are logged, any forks that are created will be consistent
+			- If the server chooses to hide a certain update or serve stale data, it will never be able to serve data from another fork as the data will have the wrong signature because the signature signs the entire log up to that point
+# BFT
+- Bad servers can be buggy or overtaken by an attacker
+	- Not working as intended
+- Requires $3f + 1$ replicas
+	- At most $f$ bad guys
+	- Want to be able to reach decisions without $f$ replicas
+	- Don't want to wait for $f$ bad servers
+	- At least one good server in majority that is left over
+- Ordering requests
+- Primary sends out prepare
+	- Prepare is then flooded
+		- If one server gets $2f + 1$ pre-prepares, responds to primary
+		- Also commit phase that matches
+	- Primary waits for $f + 1$ replies
+- How to know if primary is bad **IMPORTANT**
+	- Re-elected
+	- Need majority to switch primary
+		- All commits need to go to new primary
+
+# Bitcoin
+- How does proof of work achieve consensus?
+- How do forks happen?
+
+# Ethereum
+- Understand what VRF is 
+- How is VRF used to select a committee
+- How do timelock and hashlock work and how do they guarantee atomicity between two clients that don't trust each other

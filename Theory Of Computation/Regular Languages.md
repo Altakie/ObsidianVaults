@@ -34,7 +34,7 @@
 - Pumping Lemma 
 	- For any regular language L, there exists a pumping length such that for any string $w \in L$, where $|w| \geq p$, we can write $w = xyz$ (basically splitting the string into 3 pieces) with:
 		1. $|xy| \leq p$ (Not always used in proof)
-		2. $|y| > 1$
+		2. $|y| > 0$
 		3. $xy^iz \in L$, where $i$ is a natural number (i can be 0)
 	- If the Lemma fails, the language is not regular
 	- Regular Language $\implies$ Pumping Property
@@ -48,7 +48,7 @@
 		- $\forall$ p pumping length, $\exists$ string $w \in L$, where $|w| \geq p$
 		- $\forall x,y,z$ such that $w = xyz$:
 			1. $|xy| \leq p$ (Not always used in proof)
-			2. $|y| > 1$
+			2. $|y| > 0$
 			3. $\exists i \geq 0$ such that $xy^iz \notin L$
 		- Basically for every pumping length there is a string that cannot be pumped
 		-  Prove a language is not regular by contradiction

@@ -1,0 +1,17 @@
+- Lexer
+	- Does lexical analysis
+	- Breaks up strings into "blobs"
+	- Combines whitespace
+	- Parenthesis make a blob
+	- Makes string of digits into number
+	- Quotation is string
+	- List of non-digit characters -> symbol
+- Parser
+	- Parses the list of blobs
+	- Two stacks
+		- Token stack
+		- Empty initial stack
+		- Push tokens from token stack onto other stack
+		- If left parenthesis is seen, push from token stack until right parenthesis
+			- Parenthesis disappear in this process
+			- Put reverse of popped elements in the list
